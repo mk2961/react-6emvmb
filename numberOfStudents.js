@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-class numberOfStudents extends Component {
+class numberOfStudents extends App {
   constructor(props) {
     super(props);
     this.state = {

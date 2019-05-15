@@ -14,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <numberOfStudents></numberOfStudents>>
+        <numberOfStudents>working but not displaying</numberOfStudents>
         <numberOfWaitList></numberOfWaitList>
       </div>
     );

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-class Calculator extends Component {
+class numberOfWaitList extends Compenent {
   constructor(props) {
     super(props);
 
@@ -15,10 +15,7 @@ class Calculator extends Component {
   add() {
     this.setState({ count: this.state.count + 1 });
   }
-  subtract() {
-    this.setState({ count: this.state.count - 1 });
-  }
-  
+    
   render() {
     return (
       <div>
